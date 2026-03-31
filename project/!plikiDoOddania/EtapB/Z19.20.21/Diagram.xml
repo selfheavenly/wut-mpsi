@@ -1,0 +1,21 @@
+<?xml  version='1.0' encoding='windows-1252' ?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="F67331A1BB" name="PW-CRC-Urbas" version="1.0" notes="Diagram profile"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Sesja CRC" alias="CLS:061:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Sequence"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Struktura dziedziny" alias="CLS:059:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Logical"/>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>
