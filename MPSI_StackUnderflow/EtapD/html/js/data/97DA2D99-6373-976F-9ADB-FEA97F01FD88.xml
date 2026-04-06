@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.2.2:1", "", "Zarządzanie procesem wnioskowania i wydania sprzętu IT", "EARoot/EA1/EA2/EA2/EA32.htm", "175.png", "233", "0", "", "Logical diagram0","{BA29DCE4-89EC-1BB3-B2B6-F345697D2BD6}");
+tocTab[tocTab.length] = new Array("0.1.2.2:2", "", "«type» Historia urządzenia", "EARoot/EA1/EA2/EA2/EA35.htm", "5.png", "E1722", "0", "", "Class0","{B3D55156-D9C3-F39D-A7E9-AA2B5DCFC32B}");
+tocTab[tocTab.length] = new Array("0.1.2.2:3", "", "«type» Osoba", "EARoot/EA1/EA2/EA2/EA36.htm", "5.png", "E1724", "0", "", "Class0","{ADDBFE12-6B34-18A1-84E4-058369BEA53A}");
+tocTab[tocTab.length] = new Array("0.1.2.2:4", "", "«type» Pracownik", "EARoot/EA1/EA2/EA2/EA37.htm", "5.png", "E1725", "0", "", "Class0","{B39B1D36-2040-2075-B518-661745BA2639}");
+tocTab[tocTab.length] = new Array("0.1.2.2:5", "", "«type» Przełożony", "EARoot/EA1/EA2/EA2/EA38.htm", "5.png", "E1723", "0", "", "Class0","{987C49FD-8618-F521-AA52-E92E89D64A15}");
+tocTab[tocTab.length] = new Array("0.1.2.2:6", "", "«type» Specjalista helpdesk", "EARoot/EA1/EA2/EA2/EA39.htm", "5.png", "E1726", "0", "", "Class0","{987669E5-B29C-9790-8AB2-00440A415B55}");
+tocTab[tocTab.length] = new Array("0.1.2.2:7", "", "«type» Urządzenie", "EARoot/EA1/EA2/EA2/EA40.htm", "5.png", "E1727", "0", "", "Class0","{B80E8D34-53C6-CB8F-9D98-FD90C5B19B4A}");
+tocTab[tocTab.length] = new Array("0.1.2.2:8", "", "«type» Wniosek", "EARoot/EA1/EA2/EA2/EA41.htm", "5.png", "E1729", "0", "", "Class0","{A765196D-D40F-4616-A9E8-3286BE9EB51F}");
+tocTab[tocTab.length] = new Array("0.1.2.2:9", "", "«type» Wypożyczenie", "EARoot/EA1/EA2/EA2/EA42.htm", "5.png", "E1728", "0", "", "Class0","{8F0ADD5B-B56B-3CAD-B4D8-FF0334789342}");

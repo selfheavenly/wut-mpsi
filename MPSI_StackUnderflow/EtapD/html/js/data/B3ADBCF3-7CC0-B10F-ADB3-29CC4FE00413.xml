@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.1", "1", "Klasy domenowe", "EARoot/EA1/EA2/EA1/EA17.htm", "4.png", "", "", "{81D5BDD3-D438-5757-BD1B-C23F643FCF2F}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.2", "1", "Zarządzanie procesem wnioskowania i wydania sprzętu IT", "EARoot/EA1/EA2/EA2/EA34.htm", "4.png", "", "", "{97DA2D99-6373-976F-9ADB-FEA97F01FD88}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3", "1", "Zarządzanie obiektami systemu", "EARoot/EA1/EA2/EA3/EA45.htm", "4.png", "", "", "{B6E2B79A-ABC4-EDAC-B6E8-8685148958AE}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4", "1", "Zarządzanie procesem offboardingu", "EARoot/EA1/EA2/EA4/EA59.htm", "4.png", "", "", "{93EED576-4561-E680-BF2C-3A680B593462}", "Package");

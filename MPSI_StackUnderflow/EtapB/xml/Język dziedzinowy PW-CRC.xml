@@ -1,0 +1,104 @@
+<?xml  version='1.0' encoding='windows-1252' ?>
+<MDG.Technology version="1.0"><Documentation id="DL-PW-CRC" name="J&#x119;zyk dziedzinowy PW-CRC" version="1.0" notes="J&#x119;zyk dziedzinowy PW-CRC"/><UMLProfiles><UMLProfile profiletype="uml2">
+	<Documentation id="2B6CC24AC7" name="PW-CRC-Urbas" version="1.0" notes="Profile"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Aktor" alias="CLS:093:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Actor"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="CRC" alias="CLS:053:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Komunikat" alias="CLS:057:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Message">
+						<Property name="direction" value="Source -&gt; Destination"/>
+						<Property name="messageKind" value=""/>
+						<Property name="messageSort" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Odpowiedzialno&#x15B;&#x107;" alias="CLS:055:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Operation">
+						<Property name="isOrdered" value=""/>
+						<Property name="isQuery" value="false"/>
+						<Property name="isUnique" value=""/>
+						<Property name="lower" value=""/>
+						<Property name="upper" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Uczestnik sesji" alias="CLS:092:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Lifeline"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Wspó&#x142;pracownik" alias="CLS:096:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Association">
+						<Property name="compositionKind" value="none"/>
+						<Property name="direction" value="Source -&gt; Destination"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile></UMLProfiles><DiagramProfile><UMLProfile profiletype="uml2">
+	<Documentation id="F67331A1BB" name="PW-CRC-Urbas" version="1.0" notes="Diagram profile"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Sesja CRC" alias="CLS:061:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Sequence"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Struktura dziedziny" alias="CLS:059:Urbas" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Logical"/>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile></DiagramProfile><UIToolboxes><UMLProfile profiletype="uml2">
+	<Documentation id="31FD98BEB3" name="PW-CRC-Urbas" version="1.0" notes="Toolbox profile"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Struktura" alias="CLS:064:Urbas Struktura" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="PW-CRC-Urbas::CRC(UML::Class)" type="" description="" unit="" values="" default="Karta CRC"/>
+					<Tag name="PW-CRC-Urbas::Odpowiedzialno&#x15B;&#x107;(UML::Operation)" type="" description="" unit="" values="" default="Odpowiedzialno&#x15B;&#x107; karty"/>
+					<Tag name="PW-CRC-Urbas::Wspó&#x142;pracownik(UML::Association)" type="" description="" unit="" values="" default="Wspó&#x142;pracownik"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Zachowania" alias="CLS:065:Urbas Zachowania" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="PW-CRC-Urbas::Aktor(UML::Actor)" type="" description="" unit="" values="" default="Aktor systemu"/>
+					<Tag name="PW-CRC-Urbas::Komunikat(UML::Message)" type="" description="" unit="" values="" default="Komunikat"/>
+					<Tag name="PW-CRC-Urbas::Uczestnik sesji(UML::Lifeline)" type="" description="" unit="" values="" default="Uczestnik sesji"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile></UIToolboxes></MDG.Technology>

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.3:1", "", "Klasy analityczne: Zarządzanie obiektami systemu", "EARoot/EA1/EA3/EA69.htm", "175.png", "236", "0", "", "Logical diagram0","{947FA0C3-2507-A8FD-B81B-ACEB9B61FB97}");
+tocTab[tocTab.length] = new Array("0.1.3:2", "", "Klasy analityczne: Zarządzanie procesem offboardingu", "EARoot/EA1/EA3/EA71.htm", "175.png", "235", "0", "", "Logical diagram0","{BC047C72-F42E-54F9-9745-F73E3F67BDC9}");
+tocTab[tocTab.length] = new Array("0.1.3:3", "", "Klasy analityczne: Zarządzanie procesem wnioskowania i wydania sprzętu IT", "EARoot/EA1/EA3/EA73.htm", "175.png", "234", "0", "", "Logical diagram0","{AD56EA49-A4B7-BD2D-AAA9-7F27AC0D9541}");
+tocTab[tocTab.length] = new Array("0.1.3.1", "1", "Dane", "EARoot/EA1/EA3/EA1/EA81.htm", "4.png", "", "", "{99136BE4-E79A-64CC-BB8E-9A43944E0DD6}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.2", "1", "Interfejsy", "EARoot/EA1/EA3/EA2/EA98.htm", "4.png", "", "", "{80328725-DD69-9CA6-907E-C003ECC1D4A5}", "Package");
+tocTab[tocTab.length] = new Array("0.1.3.3", "1", "Logika aplikacyjna", "EARoot/EA1/EA3/EA3/EA126.htm", "4.png", "", "", "{892D23A7-CDBD-5865-88B9-17BC9E081E70}", "Package");

@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1.2.1:1", "", "Active Directory", "EARoot/EA1/EA2/EA1/EA18.htm", "5.png", "E1738", "0", "", "Class0","{887DEF6A-EF17-7269-84FD-4A6BAE0309C9}");
+tocTab[tocTab.length] = new Array("0.1.2.1:2", "", "Dane uwietrzytelniania", "EARoot/EA1/EA2/EA1/EA19.htm", "5.png", "E1743", "0", "", "Class0","{AEDB8F3C-29AE-EF13-BFAC-0C5B51265198}");
+tocTab[tocTab.length] = new Array("0.1.2.1:3", "", "Historia urządzenia", "EARoot/EA1/EA2/EA1/EA20.htm", "5.png", "E1730", "0", "", "Class0","{9D80EB1C-0C4A-2EA1-8812-E340F923EE5A}");
+tocTab[tocTab.length] = new Array("0.1.2.1:4", "", "Osoba", "EARoot/EA1/EA2/EA1/EA21.htm", "5.png", "E1732", "0", "", "Class0","{89DFDEFD-7CB8-2C99-B440-810FD284294D}");
+tocTab[tocTab.length] = new Array("0.1.2.1:5", "", "Pracownik", "EARoot/EA1/EA2/EA1/EA22.htm", "5.png", "E1733", "0", "", "Class0","{9C3B8A42-E80A-6154-8E26-7F6ED5ACB8EE}");
+tocTab[tocTab.length] = new Array("0.1.2.1:6", "", "Proces offboardingu", "EARoot/EA1/EA2/EA1/EA23.htm", "5.png", "E1740", "0", "", "Class0","{BA46751B-B554-203F-B47B-33409F85D325}");
+tocTab[tocTab.length] = new Array("0.1.2.1:7", "", "Protokół zwrotu", "EARoot/EA1/EA2/EA1/EA24.htm", "5.png", "E1737", "0", "", "Class0","{B71F19AE-5D8F-781F-B4F3-96F5D83C906F}");
+tocTab[tocTab.length] = new Array("0.1.2.1:8", "", "Przełożony", "EARoot/EA1/EA2/EA1/EA25.htm", "5.png", "E1731", "0", "", "Class0","{8DCCCBB3-1B7D-F467-9527-8DC63E7B0EBD}");
+tocTab[tocTab.length] = new Array("0.1.2.1:9", "", "Raport", "EARoot/EA1/EA2/EA1/EA26.htm", "5.png", "E1739", "0", "", "Class0","{A03E2E35-6480-F3A7-B615-163D6E28F406}");
+tocTab[tocTab.length] = new Array("0.1.2.1:10", "", "Specjalista helpdesk", "EARoot/EA1/EA2/EA1/EA27.htm", "5.png", "E1734", "0", "", "Class0","{8C41B940-084A-219E-9CDA-F66B45D1F4BB}");
+tocTab[tocTab.length] = new Array("0.1.2.1:11", "", "Urządzenie", "EARoot/EA1/EA2/EA1/EA28.htm", "5.png", "E1735", "0", "", "Class0","{ABDD3119-9832-148F-BF67-131D92A9C5E5}");
+tocTab[tocTab.length] = new Array("0.1.2.1:12", "", "Wniosek", "EARoot/EA1/EA2/EA1/EA29.htm", "5.png", "E1741", "0", "", "Class0","{AC5B7F30-F413-F8B1-B564-A1E1EBA2EE50}");
+tocTab[tocTab.length] = new Array("0.1.2.1:13", "", "Wypożyczenie", "EARoot/EA1/EA2/EA1/EA30.htm", "5.png", "E1736", "0", "", "Class0","{B2865758-7C7E-6D9C-ABC7-86191C32CBE0}");
+tocTab[tocTab.length] = new Array("0.1.2.1:14", "", "Zasoby", "EARoot/EA1/EA2/EA1/EA31.htm", "5.png", "E1742", "0", "", "Class0","{B983D9E4-1155-0446-BFD0-EB71B99BC530}");

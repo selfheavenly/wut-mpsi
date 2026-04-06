@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.2.4:1", "", "Zarządzanie procesem offboardingu", "EARoot/EA1/EA2/EA4/EA57.htm", "175.png", "231", "0", "", "Logical diagram0","{9B1E0CA3-C9D9-8CCA-A379-CD2B98429257}");
+tocTab[tocTab.length] = new Array("0.1.2.4:2", "", "", "EARoot/EA1/EA2/EA4/EA61.htm", "202.png", "E1704", "0", "", "Constraint0","{AC341296-231F-9956-B22D-BA9CD331632B}");
+tocTab[tocTab.length] = new Array("0.1.2.4:3", "", "«type» Active Directory", "EARoot/EA1/EA2/EA4/EA62.htm", "5.png", "E1710", "0", "", "Class0","{881FA27D-60BA-E759-9D57-776B34424753}");
+tocTab[tocTab.length] = new Array("0.1.2.4:4", "", "«type» Osoba", "EARoot/EA1/EA2/EA4/EA63.htm", "5.png", "E1705", "0", "", "Class0","{B67FE805-427A-917B-92E1-23FAF4B9B4B0}");
+tocTab[tocTab.length] = new Array("0.1.2.4:5", "", "«type» Pracownik", "EARoot/EA1/EA2/EA4/EA64.htm", "5.png", "E1706", "0", "", "Class0","{B1437F91-67ED-8B0E-B81D-4BD45136B763}");
+tocTab[tocTab.length] = new Array("0.1.2.4:6", "", "«type» Proces offboardingu", "EARoot/EA1/EA2/EA4/EA65.htm", "5.png", "E1708", "0", "", "Class0","{8EA54B88-A631-8363-AD9C-8FC5DFB930B7}");
+tocTab[tocTab.length] = new Array("0.1.2.4:7", "", "«type» Protokół zwrotu", "EARoot/EA1/EA2/EA4/EA66.htm", "5.png", "E1709", "0", "", "Class0","{BE634B5E-0921-DC6C-98DF-EFA0C78212DD}");
+tocTab[tocTab.length] = new Array("0.1.2.4:8", "", "«type» Urządzenie", "EARoot/EA1/EA2/EA4/EA67.htm", "5.png", "E1707", "0", "", "Class0","{AD8E01D3-AE18-3D3E-96B2-E367AB13E85A}");
+tocTab[tocTab.length] = new Array("0.1.2.4:9", "", "«type» Specjalista helpdesk", "EARoot/EA1/EA2/EA4/EA68.htm", "5.png", "E1702", "0", "", "Class0","{849D8379-28EA-79D6-97B7-25021756C899}");

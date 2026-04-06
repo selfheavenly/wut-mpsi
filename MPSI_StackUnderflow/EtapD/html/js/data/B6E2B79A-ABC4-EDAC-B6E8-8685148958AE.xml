@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.1.2.3:1", "", "Zarządzanie obiektami systemu", "EARoot/EA1/EA2/EA3/EA43.htm", "175.png", "232", "0", "", "Logical diagram0","{AFB18D31-A4F6-DFC1-97CD-DCCA9EBDEBDF}");
+tocTab[tocTab.length] = new Array("0.1.2.3:2", "", "«type» Active Directory", "EARoot/EA1/EA2/EA3/EA46.htm", "5.png", "E1719", "0", "", "Class0","{9AA4AF72-6F5C-F05C-B19E-3823C17451F5}");
+tocTab[tocTab.length] = new Array("0.1.2.3:3", "", "«type» Dane uwietrzytelniania", "EARoot/EA1/EA2/EA3/EA47.htm", "5.png", "E1721", "0", "", "Class0","{B8A41CEB-5C07-9356-A60A-53DFEF4EADD8}");
+tocTab[tocTab.length] = new Array("0.1.2.3:4", "", "«type» Historia urządzenia", "EARoot/EA1/EA2/EA3/EA48.htm", "5.png", "E1717", "0", "", "Class0","{94566DC0-D74A-F5E7-9CA1-FED29C2C77D2}");
+tocTab[tocTab.length] = new Array("0.1.2.3:5", "", "«type» Osoba", "EARoot/EA1/EA2/EA3/EA49.htm", "5.png", "E1712", "0", "", "Class0","{BAF8AF5A-FF2C-E285-B882-E9B5C760503B}");
+tocTab[tocTab.length] = new Array("0.1.2.3:6", "", "«type» Pracownik", "EARoot/EA1/EA2/EA3/EA50.htm", "5.png", "E1713", "0", "", "Class0","{8FC72B41-2C25-8DC2-8B04-0EE6070E875A}");
+tocTab[tocTab.length] = new Array("0.1.2.3:7", "", "«type» Przełożony", "EARoot/EA1/EA2/EA3/EA51.htm", "5.png", "E1711", "0", "", "Class0","{88B1983D-7632-BC70-A9D3-C2A165619BDB}");
+tocTab[tocTab.length] = new Array("0.1.2.3:8", "", "«type» Raport", "EARoot/EA1/EA2/EA3/EA52.htm", "5.png", "E1718", "0", "", "Class0","{94FC708B-94BE-1EB8-BDCC-44E64B5EAB50}");
+tocTab[tocTab.length] = new Array("0.1.2.3:9", "", "«type» Specjalista helpdesk", "EARoot/EA1/EA2/EA3/EA53.htm", "5.png", "E1714", "0", "", "Class0","{944BA34F-676D-1733-A1BA-44097DC6F65B}");
+tocTab[tocTab.length] = new Array("0.1.2.3:10", "", "«type» Urządzenie", "EARoot/EA1/EA2/EA3/EA54.htm", "5.png", "E1715", "0", "", "Class0","{B78C98C8-9215-6A39-B7D8-1F7670BAE30D}");
+tocTab[tocTab.length] = new Array("0.1.2.3:11", "", "«type» Wypożyczenie", "EARoot/EA1/EA2/EA3/EA55.htm", "5.png", "E1716", "0", "", "Class0","{94FC9C3A-A018-7D4E-BB7F-D446036E26CF}");
+tocTab[tocTab.length] = new Array("0.1.2.3:12", "", "«type» Zasoby", "EARoot/EA1/EA2/EA3/EA56.htm", "5.png", "E1720", "0", "", "Class0","{9C8A2DA0-8292-12F2-A602-172DC99DE8A6}");

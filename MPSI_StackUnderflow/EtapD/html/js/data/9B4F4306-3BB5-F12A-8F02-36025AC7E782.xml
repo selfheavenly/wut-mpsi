@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Kooperacje", "EARoot/EA1/EA4/EA142.htm", "189.png", "240", "0", "", "Analysis diagram0","{87D3C9A0-8136-C681-8339-AC7F66F1BED6}");
+tocTab[tocTab.length] = new Array("0.1.4.1", "1", "Zarządzanie procesem wnioskowania i wydania sprzętu IT", "EARoot/EA1/EA4/EA1/EA170.htm", "4.png", "", "", "{A9064E37-E4C6-36F7-B7AB-160595C55990}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.2", "1", "Zarządzanie procesem offboardingu", "EARoot/EA1/EA4/EA2/EA201.htm", "4.png", "", "", "{A9232BA7-5806-FE3C-90B9-51441CC8B11A}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.3", "1", "Zarządzanie obiektami systemu", "EARoot/EA1/EA4/EA3/EA237.htm", "4.png", "", "", "{A75E6BBF-1DB3-3BFC-A659-2CF6D3A5C737}", "Package");
